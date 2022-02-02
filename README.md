@@ -5,13 +5,20 @@
 
 <p align="left"> <a href="https://twitter.com/iamrealchahat" target="blank"><img src="https://img.shields.io/twitter/follow/iamrealchahat?logo=twitter&style=for-the-badge" alt="iamrealchahat" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="Screenshot (67).png" >
+<img align="right" alt="Coding" width="300" src="Screenshot (67).png" >
 
 - 🔭 I’m currently working on **Web Developnment**
 
 - 📫 How to reach me **ashishpopli2001@gmail.com**
 
-- 📄 Know about me through Resume [https://drive.google.com/file/d/1ykSSa0g_DmM2D6-zg0d4gX5M_PVWdZ5u/view?usp=sharing](https://drive.google.com/file/d/1ykSSa0g_DmM2D6-zg0d4gX5M_PVWdZ5u/view?usp=sharing)
+- 👨‍💻 All of my projects are available  **on my Github**
+
+
+- 💬 Ask me about  **C/C++, MERN, Javascript, MySQL/Mongodb**
+
+- 📄 Know about me through Resume [https://rb.gy/om01si](https://rb.gy/om01si)
+
+- Fact about me - **Carpedium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="mypic.jpg" >
 
-<h1 align="center">Hi<img alt="Coding" width="10" src="mypic.jpg" >, I'm Chahat</h1>
+<h1 align="center">Hi <img alt="Coding" width="35" src="Hi.gif" >, I'm Chahat</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/iamrealchahat" target="blank"><img src="https://img.shields.io/twitter/follow/iamrealchahat?logo=twitter&style=for-the-badge" alt="iamrealchahat" /></a> </p>

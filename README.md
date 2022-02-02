@@ -1,7 +1,6 @@
-<img align="center" alt="Coding" width="700" src="mypic.jpg" >
+<img align="center" alt="Coding" width="1000" src="mypic.jpg" >
 
-[![MasterHead](https://www.canva.com/design/DAE3L-uZmRo/_cwTKObrctoEodZgMI9-hQ/view?utm_content=DAE3L-uZmRo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://chahatpopli.github.io)
-<h1 align="center">Hi 👋, I'm Chahat</h1>
+<h1 align="center">Hi<img alt="Coding" width="10" src="mypic.jpg" >, I'm Chahat</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/iamrealchahat" target="blank"><img src="https://img.shields.io/twitter/follow/iamrealchahat?logo=twitter&style=for-the-badge" alt="iamrealchahat" /></a> </p>

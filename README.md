@@ -16,7 +16,7 @@
 
 - 💬 Ask me about  **C/C++, MERN, Javascript, MySQL/Mongodb**
 
-- 📄 Know about me through Resume [https://rb.gy/om01si](https://rb.gy/om01si)
+- 📄 Know about me through Resume [Click here](https://drive.google.com/file/d/11cii3sEaMWeh7uC3VdBqckAU3S9FoEHv/view?usp=drivesdk)
 
 - Fact about me - **Carpedium**
 

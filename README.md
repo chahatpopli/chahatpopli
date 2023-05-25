@@ -7,14 +7,14 @@
 
 <img align="right" alt="Coding" width="300" src="Screenshot (67).png" >
 
-- 🔭 I’m currently working on **Web Developnment**
+- 🔭 I’m currently working on **Azure Cloud**
 
 - 📫 How to reach me **ashishpopli2001@gmail.com**
 
 - 👨‍💻 All of my projects are available  **on my Github**
 
 
-- 💬 Ask me about  **C/C++, MERN, Javascript, MySQL/Mongodb**
+- 💬 Ask me about  **Azure Infra, Terraform, C/C++, MERN, Javascript, MySQL/Mongodb**
 
 - 📄 Know about me through Resume [Click here](https://drive.google.com/file/d/11cii3sEaMWeh7uC3VdBqckAU3S9FoEHv/view?usp=drivesdk)
 
